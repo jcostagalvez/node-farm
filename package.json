@@ -1,0 +1,15 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "Primera practica del curso de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
